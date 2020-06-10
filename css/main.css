@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.containar{
+  width: 13%;
+  margin: 22% auto;
+}
+
+button{
+  margin-top: 70px;
+  width: 150px;
+  height: 40px;
+  background-color:transparent;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border: 2px solid black;
+  color: black;
+  font-size: 18px;
+}
+
+button:hover{
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+.text{
+  font-size: 40px;
+  font-weight: bold;
+}
